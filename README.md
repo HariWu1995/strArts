@@ -2,8 +2,11 @@
 
 "The beauty of string theory is that it is all about mathematics. For that, you don't need resources or labs. Just sit in your room and do the maths." - Ashoke Sen
 
+## Workflow
+
 ## References
 
+- Callum McDougall [code](https://github.com/callummcdougall/computational-thread-art) [blog](https://medium.com/@cal.s.mcdougall/computational-thread-art-a9e46ecf34de) [marketplace](https://threadart.co.uk/)
 - Michael Crum [demo](https://michael-crum.com/string-art-gen/) [blog](https://michael-crum.com/string_art_generator/) [code](https://github.com/usedhondacivic/string-art-gen)
 - Halfmonty [demo](https://halfmonty.github.io/StringArtGenerator/) [code](https://github.com/halfmonty/StringArtGenerator)
 - Piellardj [demo](https://piellardj.github.io/image-stylization-threading/) [code](https://github.com/piellardj/image-stylization-threading)
